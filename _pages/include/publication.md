@@ -4,6 +4,6 @@
 
 [RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving](https://arxiv.org/abs/2006.04558) \\
 Tong Qin, **Yuxin Zheng**, Tongqing Chen, Yilun Chen, and Qing Su, 2021 IEEE International Conference on Robotics and Automation (ICRA) \\
-[[pdf]](files/RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving.pdf)  [[video]](https://www.youtube.com/watch?v=KB5Ci0Yxquc)
+[[pdf]](docs/RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving.pdf)  [[video]](https://www.youtube.com/watch?v=KB5Ci0Yxquc)
 </div>
 </div>
