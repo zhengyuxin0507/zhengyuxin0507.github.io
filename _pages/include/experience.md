@@ -1,8 +1,8 @@
 # Experience
 <div style="display: flex; align-items: center;">
-  <img src="images/pony.jpg" alt="Image" style="width: 150px; margin-right: 20px;"/>
+  <img src="images/tsinghua.svg" alt="Image" style="width: 150px; margin-right: 20px;"/>
   <p>
-    2019.6 - 2019.9 <br> SLAM Algorithm Engineer, intership of Map Group <br> Pony.ai
+    2023.12 - now <br> Senior Engineer <br> Institude for AI Industry Research, Tsinghua University
   </p>
 </div>
 
@@ -18,8 +18,8 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img src="images/tsinghua.svg" alt="Image" style="width: 150px; margin-right: 20px;"/>
+  <img src="images/pony.jpg" alt="Image" style="width: 150px; margin-right: 20px;"/>
   <p>
-    2023.12 - now <br> Senior Engineer <br> Institude for AI Industry Research, Tsinghua University
+    2019.6 - 2019.9 <br> SLAM Algorithm Engineer, intership of Map Group <br> Pony.ai
   </p>
 </div>
