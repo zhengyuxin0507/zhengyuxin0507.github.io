@@ -3,7 +3,17 @@
 <div class='paper-box-text' markdown="1">
 
 [RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving](https://arxiv.org/abs/2006.04558) \\
-Tong Qin, **Yuxin Zheng**, Tongqing Chen, Yilun Chen, and Qing Su, 2021 IEEE International Conference on Robotics and Automation (ICRA) \\
+Tong Qin, **Yuxin Zheng**, Tongqing Chen, Yilun Chen, and Qing Su. 2021 IEEE International Conference on Robotics and Automation (ICRA) \\
 [[pdf]](docs/RoadMap: A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving.pdf)  [[video]](https://www.youtube.com/watch?v=KB5Ci0Yxquc)
+</div>
+
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IET Cyber‐Systems and Robotics</div><img src='images/IET_2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RGB‐D SLAM with moving object tracking in dynamic
+environments](https://arxiv.org/abs/2006.04558) \\
+Weichen Dai, Yu Zhang, **Yuxin Zheng**, Donglei Sun, and Ping Li. IET Cyber‐Systems and Robotics. 2021. 3(4):281-291\\
+[[pdf]](docs/IET Cyber-Syst and Robotics - 2021 - Dai - RGB‐D SLAM with moving object tracking in dynamic environments.pdf) 
 </div>
 </div>
